@@ -71,6 +71,16 @@ body {
   margin-bottom: 20px;
 }
 
+.career-goal {
+  max-width: 800px;
+
+  margin: 20px auto;
+
+  font-size: 1.1rem;
+
+  line-height: 1.8;
+}
+
 /* Button styling */
 .btn {
   display: inline-block;
